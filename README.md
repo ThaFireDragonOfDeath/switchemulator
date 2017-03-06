@@ -1,3 +1,3 @@
 # Nintendo Switch Emulator
-Currently accepting Feature Suggestions and Bug Reports
-[lol](haha)
+Currently accepting Feature Suggestions and Bug Reports<br>
+[switchemu.org](http://switchemu.org)
