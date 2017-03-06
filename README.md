@@ -1,2 +1,2 @@
-# Nintenndo Switch Emulator
+# Nintendo Switch Emulator
 Currently accepting Feature Suggestions and Bug Reports
