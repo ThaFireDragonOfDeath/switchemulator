@@ -1,3 +1,3 @@
-# Nintendo Switch Emulator
+# Nintendo Idiot Emulator
 Currently accepting Feature Suggestions and Bug Reports<br>
-[switchemu.org](http://switchemu.org)
+[Download here :)](http://ninjaflex.com/)
